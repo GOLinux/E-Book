@@ -37,112 +37,136 @@ http://www.linuxprobe.com/tools/
 
 第1步:运行虚拟机软件
 
-
+![](vminst2.png)
 
 第2步:接受软件的许可
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVJCR3JvUTdWbWt0MldnTTlkNzQ1N1pmUFUycmNqTjBaK3ZsM3lWWkZB)
+![](vminst3.png)
+
 第3步:选择典型安装
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVJVWC9JYzdERGdoaldrQys0dXBzdWxmUFUycmNqTjBaK3ZsM3lWWkZ3)
+![](vminst4.png)
+
 第4步:选择安装到的目录
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVWQXJOcy9VVDEyaUc4UC80bXN0YjlmUFUycmNqTjBaK3ZsM3lWWkZn)
+![](vminst5.png)
+
 第5步:自动检查新版
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVCQTk5ZHVBemh5M1c0TS9Jbis1T2xmUFUycmNqTjBaK3ZsM3lWWkVR)
+![](vminst6.png)
+
 第6步:帮助改进虚拟机软件
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVrV3E5WTRBVzhsM3owQy9kTDQ0NzFmUFUycmNqTjBaK3ZsM3lWWkVB)
+![](vminst7.png)
+
 第7步:在桌面上创建图标（快捷方式）
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVNWC80WnFBamdnam0xZjlkcjd0T3RmUFUycmNqTjBaK3ZsM3lWWkV3)
+![](vminst8.png)
+
 第8步:不错,一切都准备就绪了
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVKSy9vZG5BajV3aWpvQy9ZNzU0TGhmUFUycmNqTjBaK3ZsM3lWWkVn)
+![](vminst9.png)
+
 第9步:正常安装中
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVVVjk5WTZVVFZ3alRWYi80aXRzYlpmUFUycmNqTjBaK3ZsM3lWWkhR)
+![](vminst10.png)
+
 第10步:请填写密钥或直接跳过
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVZVytvQnNCelVrM3pVUCtkMnVzTFpmUFUycmNqTjBaK3ZsM3lWWkhB)
+![](vminst11.png)
+
 第11步:安装顺利完成,Good Job!
 
 **模拟出用于安装RHEL7红帽操作系统的硬件配置。**
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVaSHJOUnVVVHdpajJwZTlZNnVzcjVmUFUycmNqTjBaK3ZsM3lWYkZR)
+![](vosinst1.png)
+
 第1步：运行"Vmware WorkStation"，看到主页面
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVJSRit0ZHJVajhnaUc5Yyt0bjV0N3RmUFUycmNqTjBaK3ZsM3lWYkZ3)
+![](vosinst2.png)
+
 第2步：创建新的虚拟机
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVJjWHJOTS9VR2toMlR3UHFOUDc1TDlmUFUycmNqTjBaK3ZsM3lWYkZn)
+![](vosinst3.png)
+
 第3步：新建虚拟机向导——典型（推荐）
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVJKRjk5QnBBMjUzalc4THFJeXVzNzlmUFUycmNqTjBaK3ZsM3lWYkVR)
+![](vosinst4.png)
+
 第4步：选择稍后安装操作系统
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVJRVytvTnRBMjhuMkc4Qy80eXQ0THhmUFUycmNqTjBaK3ZsM3lWYkVB)
+![](vosinst5.png)
+
 第5步：定义版本为"Red Hat Enterprise Linux 7 64位"
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVJWSy9JTnNVR3NsMjJvUHFZeXR0YmRmUFUycmNqTjBaK3ZsM3lWYkV3)
+![](vosinst6.png)
+
 第6步：设置虚拟机名称与安装路径
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVFUys0WTdVbXQyM3oxZitJbXR2cjFmUFUycmNqTjBaK3ZsM3lWYUhR)
+![](vosinst7.png)
+
 第7步：设置磁盘为20GB即可（足够了）
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVJRUytkTnVWamd0ajI1Zit0TC81K3BmUFUycmNqTjBaK3ZsM3lWYkhR)
+![](vosinst8.png)
+
 第8步：完成向导后请点击“自定义硬件”
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVsRXJ0YzRVRHdoaVRwYzlZK29zK3BmUFUycmNqTjBaK3ZsM3lWYkhB)
+![](vosinst9.png)
+
 第9步：选择“设置光驱”，选择到RHEL7镜像
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVWRXJOUTdCalFoalQ1Yi90T3I1T2xmUFUycmNqTjBaK3ZsM3lWY0ZR)
+![](vosinst10.png)
+
 第10步：选择“设置网络适配器”为“仅主机模式”
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVRUi9OUnJWVFVnajIxWitvdXV2N2xmUFUycmNqTjBaK3ZsM3lWY0Z3)
+![](vosinst11.png)
+
 第11步：全部设置完成,请点击“完成”。
 
 ####1.3 VM安装RHEL7系统
 通过上面小节已经将虚拟机配置完毕，现在正式安装红帽RHEL7系统啦。
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVJORi85VTRBVFFsaVR4WS9JdXFzYnRmUFUycmNqTjBaK3ZsM3lWY0Vn)
+![](os1.png)
+
 第1步:启动RHEL7的主机电源
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVJKQi9ZUTREV2dtalRwZis5cW81ZTFmUFUycmNqTjBaK3ZsM3lWY0hR)
+![](os2.png)
+
 第2步:敲击回车
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVSR3FZUnFCRFFtMmpVQytvLy81N3RmUFUycmNqTjBaK3ZsM3lWY0hB)
+![](os3.png)
+
 第3步:等待即可
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVJkRHE5dHJEVHNsMjI4S3FONnA0K3RmUFUycmNqTjBaK3ZsM3lWZEZB)
+
+
 第4步:选择安装系统时的语言
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVOSyt0WThBbWtzM0dwYnJ0S3Z0cmRmUFUycmNqTjBaK3ZsM3lWZEZ3)
+
 第5步:配置信息界面,敲击“Installation Destination”
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVFWHFkWS9EVHNqajJvRCs5djhzK3RmUFUycmNqTjBaK3ZsM3lwYUhR)
+
 第6步:进入后选择硬盘并点击左上角“Done”
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVGSy9JWTdEVGgzMmoxWStvajc1YnhmUFUycmNqTjBaK3ZsM3lWZEZn)
+
 第7步:返回主页面后再点击“Software Selection”后选择"Server With GUI"
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVJBWDl0UTZER2d0M3p4WXJZK3JzdTFmUFUycmNqTjBaK3ZsM3lwYUhB)
+
 第8步:返回主页面后再点击"Network & Hostname"后设置主机名"linuxprobe.com"
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVVWHFkVnZWalFuMzJrSjlZNnF2clpmUFUycmNqTjBaK3ZsM3lwYkVR)
+
 第9步:一切就绪后返回主页面并点击“Begin Installation”
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVBUzl0SThCemh4M1Q0Ty90MnQ1TDFmUFUycmNqTjBaK3ZsM3lwYkZR)
+
 第10步:点击“Root Password”
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVoSDk5YzRVamx4MjI4S3JvLzU0dXhmUFUycmNqTjBaK3ZsM3lwYkZ3)
+
 第11步:设置Root用户的密码（简单密码请双击Done）
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVJCR3F0dG9WVGgxanpoWXJkK29zYjFmUFUycmNqTjBaK3ZsM3lwYkZn)
+
 第12步:等待安装完成后点击“Reboot”	
 
-![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVVGQStZWm9CRGtsMmoxZSt0MytzK3RmUFUycmNqTjBaK3ZsM3lwYkV3)
+
 第13步:重启后选择“License Instormation”
 
 ![](index.php?mod=io&op=thumbnail&width=0&height=0&original=1&path=aG9GZEV2LzNYc1ZjOVJVUy85VTZBRDkyampzRDlZLzh2cmhmUFUycmNqTjBaK3ZsM3lwYkVn)
