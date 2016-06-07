@@ -60,22 +60,27 @@ Ubuntu是一款基于Debian派生的产品，对新款硬件具有极强的兼�
 
 
 ####0.6 认识红帽认证
-Linux系统有上百个不同的组织、公司、机构研发并发布出不同的版本，其中红帽公司作为一家成熟的操作系统厂商提供可靠的Linux系统和完善的求援服务，红帽企业linux系统（RedHat Enterprise Linux,RHEL）的市场占有量极大，认可度也非常高。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux系统有上百个不同的组织、公司、机构研发并发布出不同的版本，其中红帽公司作为一家成熟的操作系统厂商提供可靠的Linux系统和完善的求援服务，红帽企业linux系统（RedHat Enterprise Linux,RHEL）的市场占有量极大，认可度也非常高。
 ****红帽公司推出了阶梯式的认证体系也确实能够帮助读者检查自己的能力：****
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](rhcs.png)
 
 同于大家的了解，本书****《Linux就该这么学》****就是由一批中国的红帽架构师所编写。
 
 ![](rhca.png)
-<center>红帽认证架构师</center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;红帽认证架构师
 
 
 
-<center>![](rhce6.png)</center>
-<center>RHEL 6.0版本认证工程师</center>
+![](rhce6.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RHEL 6.0版本认证工程师
 
 
-######RHEL 7.0版本认证工程师
+
+
+![](rhce7.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RHEL 7.0版本认证工程师
 
 ----
 ****本章结束，您可以在此写下笔记：****
