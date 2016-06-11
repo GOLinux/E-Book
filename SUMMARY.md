@@ -5,4 +5,5 @@
 * [二、使用 mdadm 工具创建软 RAID 0 （条带化）](chapter2.md)
 * [三、用两块磁盘创建 RAID 1（镜像）](chapter3.md)
 * [四、创建 RAID 5（条带化与分布式奇偶校验）](chapter4.md)
+* 五、安装 RAID 6（条带化双分布式奇偶校验）
 
