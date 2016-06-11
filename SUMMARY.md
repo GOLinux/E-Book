@@ -6,4 +6,5 @@
 * [三、用两块磁盘创建 RAID 1（镜像）](chapter3.md)
 * [四、创建 RAID 5（条带化与分布式奇偶校验）](chapter4.md)
 * [五、安装 RAID 6（条带化双分布式奇偶校验）](chapter5.md)
+* 六、设置 RAID 10 或 1 + 0（嵌套）
 
