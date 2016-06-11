@@ -9,4 +9,5 @@
 * [六、设置 RAID 10 或 1 + 0（嵌套）](chapter6.md)
 * [七、在 Raid 中扩展现有的 RAID 阵列和删除故障的磁盘](chapter7.md)
 * [八、当软件 RAID 故障时如何恢复和重建数据](chapter8.md)
+* 九、如何使用 ‘Mdadm’ 工具管理软件 RAID
 
