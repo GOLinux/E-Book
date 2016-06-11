@@ -10,5 +10,5 @@
 * [七、在 Raid 中扩展现有的 RAID 阵列和删除故障的磁盘](chapter7.md)
 * [八、当软件 RAID 故障时如何恢复和重建数据](chapter8.md)
 * [九、如何使用 ‘Mdadm’ 工具管理软件 RAID](chapter9.md)
-* 致谢
+* [致谢](zhi_xie.md)
 
